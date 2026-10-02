@@ -78,3 +78,5 @@ Prioridades
 - Corto plazo: implementar búsquedas, filtros y validación de datos.
 - Mediano plazo: mejorar la interfaz y la administración de recursos.
 - Largo plazo: incorporar favoritos, exportación de archivos y nuevas funcionalidades.
+
+#creacion y actualizacion de nuevos archivos
