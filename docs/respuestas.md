@@ -47,3 +47,9 @@ automáticamente el Pull Request existente.
 necesario actualizar el repositorio local?
 Porque el merge ocurre en el repositorio remoto y la copia local debe 
 descargar esos cambios con git pull. 
+
+12. ¿Qué ventaja tiene usar requirements.txt en lugar de compartir .venv?
+Permite registrar las dependencias del proyecto para que otros puedan instalarlas fácilmente. Además, ocupa menos espacio y evita problemas de compatibilidad al compartir el entorno virtual.
+
+13. ¿Por qué el repositorio local no es lo mismo que el fork de GitHub?
+El repositorio local es la copia del proyecto almacenada en nuestra computadora, donde realizamos los cambios. En cambio, el fork es una copia de un repositorio ajeno creada en nuestra cuenta de GitHub para trabajar sin modificar directamente el proyecto original.
