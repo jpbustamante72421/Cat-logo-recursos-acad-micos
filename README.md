@@ -80,3 +80,5 @@ Prioridades
 - Largo plazo: incorporar favoritos, exportación de archivos y nuevas funcionalidades.
 
 #creacion y actualizacion de nuevos archivos
+
+# tipos de recursos 
